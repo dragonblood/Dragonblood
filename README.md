@@ -1,9 +1,9 @@
 ### Hi there 👋
-Lots of work in progress
---> Cataract
---> My New Website
---> Recomendation engine
---> Project F
+Lots of work in progress <br>
+--> Cataract<br>
+--> My New Website<br>
+--> Recomendation engine<br>
+--> Project F<br>
 
 
 
