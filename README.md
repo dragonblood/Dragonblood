@@ -1,4 +1,11 @@
 ### Hi there 👋
+Lots of work in progress
+--> Cataract
+--> My New Website
+--> Recomendation engine
+--> Project F
+
+
 
 <!--
 **dragonblood/Dragonblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
