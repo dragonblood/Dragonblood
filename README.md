@@ -3,7 +3,7 @@ Lots of work in progress <br>
 --> Cataract<br>
 --> My New Website<br>
 --> Recomendation engine<br>
---> Project F<br>
+--> MusicVAE (Magenta)<br>
 
 
 
