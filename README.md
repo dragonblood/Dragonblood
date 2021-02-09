@@ -6,6 +6,9 @@ Lots of work in progress <br>
 --> MusicVAE (Magenta)<br>
 
 
+[Fractals](http://fractals.ml) while you here take a look.<br>
+[dragonblood/fractals](https://github.com/dragonblood/fractals)
+
 
 <!--
 **dragonblood/Dragonblood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
