@@ -11,12 +11,12 @@
   - My New Website *(Please do not visit vipulpetkar.ml it's in trash state)*<br>
    - Recomendation engine *(My College Project)*<br><hr>
 
-    - Image Tagging (Project Cataract)<br>
-    - AI Dubbing (Project Erridium)<br>
-    - MusicVAE (Project F)<br><hr>
+   - Image Tagging (Project Cataract)<br>
+   - AI Dubbing (Project Erridium)<br>
+   - MusicVAE (Project F)<br><hr>
 
-    - Todo App (PWA)<br>
-    - Notes App (PWA)<br>
+   - Todo App (PWA)<br>
+   - Notes App (PWA)<br>
 
   ### Work PlannedPlanned
   #### Don't even ask its too much!!
