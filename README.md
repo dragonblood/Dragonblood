@@ -8,14 +8,15 @@
 
 ## Work:
 ### Work in Progress:
-  - My New Website *(Please do not visit vipulpetkar.ml it's in trash state)*<br>
-   - Recomendation engine *(My College Project)*<br><hr>
+   - My New Website *(Please do not visit vipulpetkar.ml it's in trash state)*
+   - Neumorphic UI Framework
+   - Recomendation engine *(My College Project)*<hr>
 
-   - Image Tagging (Project Cataract)<br>
-   - AI Dubbing (Project Erridium)<br>
-   - MusicVAE (Project F)<br><hr>
+   - Image Tagging (Project Cataract)
+   - AI Dubbing (Project Erridium)
+   - MusicVAE (Project F)<hr>
 
-   - Todo App (PWA)<br>
+   - Todo App (PWA)
    - Notes App (PWA)<br>
 
   ### Work PlannedPlanned
