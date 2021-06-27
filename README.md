@@ -1,7 +1,7 @@
 
 ## Hobbies:
 - Painting, composing music *(Lofi/Ambient)*, crafting random items with hands.
-- Playing Nier:Automata, Ark, Cyberpunk 2077 and Making games (Learning Unity in Progress).
+- Playing Nier:Automata, Ark, Witcher 3, Horizon Zero Dawn, Sekiro and Making games (Learning Unity in Progress).
 - Taking photos *Insta: @neon.esque*.
 - Designing things CSS, Photoshop, Canva.
 - Travelling.
@@ -14,10 +14,7 @@
 
    - Image Tagging (Project Cataract)
    - AI Dubbing (Project Erridium)
-   - MusicVAE (Project F)<hr>
-
-   - Todo App (PWA)
-   - Notes App (PWA)<br>
+   - MusicVAE (Project F)<hr><br>
 
   ### Work PlannedPlanned
   #### Don't even ask its too much!!
