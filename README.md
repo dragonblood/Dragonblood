@@ -16,7 +16,7 @@
    - AI Dubbing (Project Erridium)
    - MusicVAE (Project F)<hr><br>
 
-  ### Work PlannedPlanned
+  ### Work Planned:
   #### Don't even ask its too much!!
 <hr>
 
