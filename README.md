@@ -8,7 +8,6 @@
 
 ## Work:
 ### Work in Progress:
-   - Image Tagging (Project Cataract), Almost finished Yey 🎉
    - My New Website *(Please do not visit vipulpetkar.ml it's in trash state)*
    - AI Dubbing (Project Erridium) <hr>
    
