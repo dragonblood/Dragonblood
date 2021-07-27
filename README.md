@@ -8,7 +8,7 @@
 
 ## Work:
 ### Work in Progress:
-   - My New Website *(Please do not visit vipulpetkar.ml it's in trash state)*
+   - My New Website *(Please do not visit vipulpetkar.me it's in trash state)*
    - AI Dubbing (Project Erridium) <hr>
    
    - Neumorphic UI Framework
@@ -18,7 +18,7 @@
   #### Don't even ask its too much!!
 <hr>
 
-*[Fractals](http://fractals.ml) while you here take a look.<br>
+*[Fractals](https://vipulpetkar.me/fractals/) while you here take a look.<br>
 [dragonblood/fractals](https://github.com/dragonblood/fractals)*
 
 --> 💬 Ask me about: Nothing, Unless it's Collabration/Contribution or Job.<br>
