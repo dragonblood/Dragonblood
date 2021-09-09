@@ -1,4 +1,6 @@
 
+>There he goes: One of God's own prototypes. A high-powered mutant of some kind, never even considered for mass production. Too weird to live, and too rare to die. —Hunter S. Thompson
+
 ## Hobbies:
 - Painting, composing music *(Lofi/Ambient)*, crafting random items with hands.
 - Playing Nier:Automata, Ark, Witcher 3, Horizon Zero Dawn, Sekiro and Making games (Learning Unity in Progress).
@@ -7,15 +9,15 @@
 - Travelling.
 
 ## Work:
-### Work in Progress:
-   - My New Website *(Please do not visit vipulpetkar.me it's in trash state)*
-   - AI Dubbing (Project Erridium) <hr>
-   
-   - Neumorphic UI Framework
-   - MusicVAE (Project F)<hr><br>
+   ### Work in Progress:
+      - My New Website *(Please do not visit vipulpetkar.me it's in trash state)*
+      - AI Dubbing (Project Erridium)
 
-  ### Work Planned:
-  #### Don't even ask its too much!!
+      - Neumorphic UI Framework
+      - MusicVAE (Project F)<hr>
+
+   ### Work Planned:
+   #### Don't even ask its too much!!
 <hr>
 
 *[Fractals](https://vipulpetkar.me/fractals/) while you here take a look.<br>
