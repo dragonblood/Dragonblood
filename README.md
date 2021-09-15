@@ -1,5 +1,5 @@
 
->There he goes: One of God's own prototypes. A high-powered mutant of some kind, never even considered for mass production. Too weird to live, and too rare to die. —Hunter S. Thompson
+>There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die. —Hunter S. Thompson
 
 ## Hobbies:
 - Painting, composing music *(Lofi/Ambient)*, crafting random items with hands.
