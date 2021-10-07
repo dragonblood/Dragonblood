@@ -10,14 +10,16 @@
 
 ## Work:
    ### Work in Progress:
-      - My New Website *(Please do not visit vipulpetkar.me it's in trash state)*
+      - My New Website (Please do not visit vipulpetkar.me it's in trash state)
       - AI Dubbing (Project Erridium)
 
       - Neumorphic UI Framework
-      - MusicVAE (Project F)<hr>
 
    ### Work Planned:
-   #### Don't even ask its too much!!
+      - MusicVAE (Project F)
+      - Nemica: Smart NPC system
+      - Decentralized **** system (its a secret)
+      - Project G
 <hr>
 
 *[Fractals](https://vipulpetkar.me/fractals/) while you here take a look.<br>
