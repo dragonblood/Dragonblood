@@ -4,7 +4,7 @@
 ## Hobbies:
 - Painting, composing music *(Lofi/Ambient)*, crafting random items with hands.
 - Playing Nier:Automata, Ark, Witcher 3, Horizon Zero Dawn, Sekiro and Making games (Learning Unity in Progress).
-- Taking photos *Insta: @neon.esque*.
+- Taking photos *Insta: @neon.codes*.
 - Designing things CSS, Photoshop, Canva.
 - Travelling.
 
